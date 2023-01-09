@@ -4,4 +4,4 @@
 - 🌱 I’m currently studying in the University of Macedonia Msc in software development and cloud.
 
 Below, there is a software analysis project for liquibase that I have made in greek.
-https://docs.google.com/document/d/e/2PACX-1vSiABBN8E8p42f6Xq2X17cregUyGcFs7ryjQj0nz4aofLeDOmegvgqFCTZo__4TfA/pub
+https://docs.google.com/document/d/1AnS2JuvAXod6KYoJA4M7yBUkjtHhDqr5/edit?usp=sharing&ouid=103719576153971869117&rtpof=true&sd=true
